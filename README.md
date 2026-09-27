@@ -22,6 +22,7 @@ and naturally parallel. But the tooling never existed.
 cargo install acpud
 acpud new my-async-cpu
 acpud gui
+```
 
 ## 📜 License
 Licensed under either of:
@@ -29,4 +30,3 @@ Licensed under either of:
 - [MIT license](./LICENSE-MIT)
 
 at your option.
-```
